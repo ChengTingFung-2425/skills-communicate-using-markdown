@@ -9,6 +9,7 @@ In helloworld.py
 ```
 print("hello world")
 ```
+- [X] Create markdown
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
